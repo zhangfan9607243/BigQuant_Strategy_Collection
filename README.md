@@ -1,1 +1,1 @@
-# BigQuant_Strategy_Collection
+# BigQuant Strategy Collection
